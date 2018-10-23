@@ -1,0 +1,23 @@
+{
+  "name": "abacus-dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthickarya09/abacus-dashboard.git"
+  },
+  "author": "Karthick Arya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karthickarya09/abacus-dashboard/issues"
+  },
+  "homepage": "https://github.com/karthickarya09/abacus-dashboard#readme",
+  "dependencies": {
+    "react": "^16.5.2",
+    "redux": "^4.0.1"
+  }
+}
